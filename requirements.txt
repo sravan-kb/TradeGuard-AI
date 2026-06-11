@@ -1,0 +1,8 @@
+streamlit
+requests
+fpdf2
+python-dotenv
+openai
+pandas
+openpyxl
+xlrd
