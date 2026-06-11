@@ -8,7 +8,7 @@ Built for the Microsoft Agents League Hackathon 2026
 
 ## What it does
 
-TradeGuard-AI helps Indian businesses screen vendors before onboarding them. It checks vendors against multiple public compliance datasets and generates an AI-powered risk assessment report.
+TradeGuard-AI helps businesses screen companies and vendors before onboarding them.
 
 ### Screening Datasets
 - **OFAC SDN List** (US Treasury) — Global sanctions screening
