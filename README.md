@@ -6,6 +6,12 @@ Built for the Microsoft Agents League Hackathon 2026
 
 ---
 
+## Demo Video
+
+[![TradeGuard-AI Demo](https://img.youtube.com/vi/uUobIoqkc9Y/0.jpg)](https://youtu.be/uUobIoqkc9Y)
+
+---
+
 ## What it does
 
 TradeGuard-AI helps businesses screen companies and vendors before onboarding them.

@@ -131,10 +131,9 @@ if st.button("Analyze Vendor"):
 
     st.markdown("---")
 
-    if sections["IMPORTANT NOTICE:"]:
-        st.caption(" ".join(sections["IMPORTANT NOTICE:"]))
-
     st.caption(
-        "TradeGuard-AI presents findings for review. "
-        "Final vendor decisions must be made by a qualified compliance officer."
+        """
+        TradeGuard-AI is an educational project for demonstrating AI-powered vendor screening and risk assessment.
+        Results are for informational purposes only.
+        """
     )
